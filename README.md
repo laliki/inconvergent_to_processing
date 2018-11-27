@@ -1,6 +1,6 @@
 # inconvergent_to_processing
 
-From November 20th to 23rd Anders Hoff a.k.a. inconvergent, was teaching at the "Master en Innovació Audiovisual i Entorns Interactius", at the school BAU, in Barcelona. (https://www.baued.es/ca/estudis/masters-i-postgraus/master-en-innovacio-audiovisual-i-entorns-interactius)
+From November 20th to 23rd 2018, Anders Hoff a.k.a. inconvergent, was teaching at the "Master en Innovació Audiovisual i Entorns Interactius", at the school BAU, in Barcelona. (https://www.baued.es/ca/estudis/masters-i-postgraus/master-en-innovacio-audiovisual-i-entorns-interactius)
 
 The codes used by Anders are available at https://github.com/inconvergent/inconvergent-sandbox.
 
